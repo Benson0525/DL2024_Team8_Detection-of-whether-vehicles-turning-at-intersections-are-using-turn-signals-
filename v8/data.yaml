@@ -1,0 +1,15 @@
+#path: "C:Users/USER/Desktop/ultralytics-main/ultralytics-main/ultralytics/cfg/models/v8"
+# train: 'C:\\Users\\USER\\Desktop\\ultralytics-main\\ultralytics-main\\ultralytics\\cfg\\models\\v8\\data\\train0'
+# val: 'C:\\Users\\USER\\Desktop\\ultralytics-main\\ultralytics-main\\ultralytics\\cfg\\models\\v8\\data\\valid0'
+train: "C:\\Users\\USER\\Desktop\\ultralytics-main\\ultralytics-main\\ultralytics\\cfg\\models\\v8\\data\\image\\train"
+val: "C:\\Users\\USER\\Desktop\\ultralytics-main\\ultralytics-main\\ultralytics\\cfg\\models\\v8\\data\\image\\val"
+
+
+# Classes
+names:
+  0: no light
+  1: light
+  # 0: car
+  # 1: motorcycle
+  # 2: no light
+  # 3: light
