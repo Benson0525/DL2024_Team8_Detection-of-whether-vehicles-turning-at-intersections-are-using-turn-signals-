@@ -7,4 +7,4 @@
   * best.pt   : 利用YOLO訓練出有無打方向燈的最佳權重
   * turn.ipynb: 用滑鼠點擊來繪製邊界，並將車輛有無轉彎以及有無打方向燈print出來
 
-* 使用方法:把要訓練的資料集放在./data/image/train，驗證集放在./data/image/val，執行train.py。訓練產出來的best.pt放在最外層的路徑，將要測試的影片路徑貼給turn.ipynb執行。
+* 使用方法:需先下載yolov8n放在v8資料夾，把要訓練的資料集放在./data/image/train，驗證集放在./data/image/val，執行train.py。訓練產出來的best.pt放在最外層的路徑，將要測試的影片路徑貼給turn.ipynb執行。
