@@ -1,6 +1,7 @@
 # DL2024_Team8_Detection-of-whether-vehicles-turning-at-intersections-are-using-turn-signals-
 * 創作目標:辨識車輛有無打方向燈
-* 檔案說明:frames.py : 將影片切成好幾幀
+* 檔案說明:
+  * frames.py : 將影片切成好幾幀
   * data.yaml : 類別分成兩類，分別為no light和light
   * train.py  : 利用YOLO模型訊練
   * best.pt   : 利用YOLO訓練出有無打方向燈的最佳權重
